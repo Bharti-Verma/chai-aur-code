@@ -1,0 +1,19 @@
+{
+  "name": "chaiaurcode",
+  "version": "1.0.0",
+  "description": "backend for chai aur code ",
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai",
+    "aur",
+    "code"
+  ],
+  "license": "ISC",
+  "author": "Bharti Verma",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
